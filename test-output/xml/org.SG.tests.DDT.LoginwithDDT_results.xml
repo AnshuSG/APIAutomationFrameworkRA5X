@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationFrameworkRA5X"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.175">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testLoginData"
+                time="0.159"
+                classname="org.SG.tests.DDT.LoginwithDDT">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.007"
+                classname="org.SG.tests.DDT.LoginwithDDT">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.003"
+                classname="org.SG.tests.DDT.LoginwithDDT">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.006"
+                classname="org.SG.tests.DDT.LoginwithDDT">
+            </testcase>
+</testsuite>
